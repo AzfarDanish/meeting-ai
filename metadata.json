@@ -1,0 +1,7 @@
+{
+  "name": "MeetingMind AI",
+  "description": "Capture, transcribe, and analyze meetings with advanced AI reasoning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
